@@ -4,8 +4,7 @@
 ```
 calculator.py          - основной код калькулятора
 test_calculator.py     - тесты (5 тестов)
-TEST_PLAN_CALC.md      - план тестирования
-REPORT_CALC.md         - отчет о результатах
+test_plan.md      - план тестирования
 ```
 
 ## Как использовать
